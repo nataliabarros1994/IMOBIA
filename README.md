@@ -180,8 +180,8 @@ O projeto segue uma metodologia rigorosa em **8 fases**:
 
 **Natalia Barros**
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- 📧 joshbarrosweb@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/nataliachagas1994/)
+- 📧 natalia.goldenglowitsolutions@gmail.com
 
 ---
 
