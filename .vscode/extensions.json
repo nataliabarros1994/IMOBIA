@@ -1,0 +1,15 @@
+{
+  "recommendations": [
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "ms-toolsai.jupyter",
+    "ms-toolsai.datawrangler",
+    "charliermarsh.ruff",
+    "mtxr.sqltools",
+    "mtxr.sqltools-driver-pg",
+    "mongodb.mongodb-vscode",
+    "mechatroner.rainbow-csv",
+    "eamodio.gitlens",
+    "yzhang.markdown-all-in-one"
+  ]
+}

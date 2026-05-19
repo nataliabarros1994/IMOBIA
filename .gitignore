@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Conda
+.conda/
+
+# Variáveis de ambiente
+.env
+*.env
+!.env.example
+
+# Dados (não versionar arquivos grandes)
+data/raw/*
+data/interim/*
+data/processed/*
+data/external/*
+!data/**/.gitkeep
+
+# Notebooks
+.ipynb_checkpoints/
+
+# VS Code (mantém só o compartilhável)
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+!.vscode/launch.json
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Logs e modelos
+*.log
+models/*.pkl
+models/*.joblib
