@@ -25,6 +25,9 @@ dependencies = [
     "ipykernel>=6.29",
     "streamlit>=1.40",
     "anthropic>=0.40",
+    "xgboost>=3.0",
+    "lightgbm>=4.5",
+    "optuna>=4.0",
 ]
 
 [project.optional-dependencies]

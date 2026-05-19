@@ -39,3 +39,4 @@ Thumbs.db
 models/*.pkl
 models/*.joblib
 src/imobia_referencia/
+plt
