@@ -1,7 +1,6 @@
 """Caminhos do projeto. Centralizar aqui evita strings hardcoded espalhadas."""
 from pathlib import Path
 
-
 # Path(__file__) eh o caminho desse proprio arquivo paths.py
 # .resolve() converte pra caminho absoluto
 # .parents[2] sobe 2 niveis: src/imobia -> src -> ImobIA (raiz)
