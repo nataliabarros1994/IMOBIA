@@ -1,10 +1,13 @@
 # 🏠 ImobIA — Análise e Previsão do Mercado Imobiliário do Rio de Janeiro
 
+[![App ao vivo](https://img.shields.io/badge/🚀_App_ao_vivo-Streamlit_Cloud-FF4B4B?logo=streamlit&logoColor=white)](https://nataliabarros1994-imobia-streamlit-app-5enqen.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.13-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.8-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![XGBoost](https://img.shields.io/badge/XGBoost-2.1-0099CC)](https://xgboost.readthedocs.io/)
+
+👉 **Acesse o dashboard:** [nataliabarros1994-imobia-streamlit-app-5enqen.streamlit.app](https://nataliabarros1994-imobia-streamlit-app-5enqen.streamlit.app/)
 
 **Projeto end-to-end de ciência de dados** que cobre o ciclo completo: coleta, limpeza, análise exploratória, feature engineering, modelagem (supervisionada e não-supervisionada), tuning de hiperparâmetros, persistência e dashboard interativo.
 
@@ -171,7 +174,7 @@ O projeto segue uma metodologia rigorosa em **8 fases**:
 - [ ] Integração com dados reais (Kaggle / scraping)
 - [ ] Banco PostgreSQL com Docker Compose
 - [ ] Geração automatizada de laudos com Claude (LLM)
-- [ ] Deploy público no Streamlit Cloud
+- [x] Deploy público no Streamlit Cloud
 - [ ] CI/CD com GitHub Actions
 
 ---
