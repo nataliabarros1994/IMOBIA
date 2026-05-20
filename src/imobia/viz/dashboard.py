@@ -47,7 +47,7 @@ col4.metric("Preco/m2 medio", f"R$ {(df_filt['preco']/df_filt['area_m2']).mean()
 st.subheader("Distribuicao de precos")
 st.pyplot(histograma_precos(df_filt))
 
-st.subheader("Preco/m2 por bairro")
+st.subheader("Preço/m² por bairro")
 st.pyplot(boxplot_por_bairro(df_filt))
 
 st.subheader("Amostra dos dados")
